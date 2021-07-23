@@ -14,7 +14,7 @@ Topics:
 - [x] **Fork** this repository, then clone your fork.
 - [x] **NOTE** You have 2 servers that you will be running here so read these instructions carefully.
 - [x] **In the root of this directory**: Run `npm install` to download dependencies.
-- [x ] Run the server using `npm start` or `node server.js`. (Don't worry too much about this process, you'll get used to doing this and it will be explained more in the future).
+- [x] Run the server using `npm start` or `node server.js`. (Don't worry too much about this process, you'll get used to doing this and it will be explained more in the future).
 - [ ] In a separate terminal cd into the `client` folder and run `npm install` to download dependencies.
 - [ ] Still inside the `client` folder run `npm start` to run the client application.
 
